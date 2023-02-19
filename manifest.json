@@ -1,0 +1,52 @@
+{
+  "name": "จิตอาสา 904 หลักสูตรพื้นฐานภาค 3 รุ่น 1/65",
+  "short_name": "904 พื้นฐานภาค 3 รุ่น 1/65",
+  "theme_color": "",
+  "background_color": "",
+  "display": "fullScreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/http://jitarsa.sandbox.noodl.app/",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/nkRNYPT/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/7RP4zCn/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/bznT1Jm/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/Xz84c6R/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/7yX17kj/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/sCgdBP4/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/PmtYRZG/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/5WF5JqM/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
